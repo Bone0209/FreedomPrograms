@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-def shout():
+def main():
   print("hello python3 world")
 
 if __name__ == '__main__':
